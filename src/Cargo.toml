@@ -1,0 +1,8 @@
+[package]
+name = "tax_code_demo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.38", features = ["derive"] }
+tax_code = "0.1.0"
