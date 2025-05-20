@@ -1,0 +1,6 @@
+{
+    "cars": [
+        {"make": "ford", "model": "f150"},
+        {"make": "toyota", "model": "crown"}
+    ]
+}
