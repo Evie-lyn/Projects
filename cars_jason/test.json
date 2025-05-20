@@ -1,0 +1,19 @@
+{
+    "types": [
+      {
+        "name": "Car",
+        "fields": {
+          "make": "String",
+          "model": "String",
+          "year": "f64"
+        }
+      },
+      {
+        "name": "Wheel",
+        "fields": {
+          "radius": "f64",
+          "width": "f64"
+        }
+      }
+    ]
+  }
